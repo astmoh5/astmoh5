@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @astmoh5
-- 🏫 I am currently in highschool and have IT as one of my courses.
+- 🏫 I am currently a student in highschool and have IT as one of my courses.
 - 👀 I’m interested in programming and have mostly coded in python until highschool.
 - 🌱 I’m currently learning HTML, CSS and JavaScript. Following the course i am in at school. 
 - 🐍 I am also learning some python on the side, however i am not focusing on it.
